@@ -76,7 +76,7 @@ class ProfCoursTest extends TestCase
             new Prof("Nom_prof3", "Prenom_prof3", "10/03/1982", "lieu_prof3"),      // idprof = 3
             new Prof("Nom_prof4", "Prenom_prof4", "10/04/1982", "lieu_prof4"),      // idprof = 4
             new Prof("Nom_prof5", "Prenom_prof5", "10/05/1982", "lieu_prof5"),      // idprof = 5
-            new Prof("Barbier", "Loïc, "01/11/2002", "Mons"),      // idprof = 6
+            new Prof("Barbier", "Loïc", "01/11/2002", "Mons"),      // idprof = 6
             new Prof("Nom_prof7", "Prenom_prof7", "10/07/1982", "lieu_prof7"),      // idprof = 7
             new Prof("Nom_prof8", "Prenom_prof8", "10/08/1982", "lieu_prof8"),      // idprof = 8       ** A SUPPRIMER **
             new Prof("Nom_prof9", "Prenom_prof9", "10/09/1982", "lieu_prof9"),      // idprof = 9
